@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:medvista/screens/login_screen.dart';
 import 'package:medvista/screens/signup_screen.dart';
+import 'package:medvista/screens/widget/navbar_root.dart';
 
 class WelcomeScreen extends StatelessWidget {
   const WelcomeScreen({super.key});
@@ -19,7 +20,11 @@ class WelcomeScreen extends StatelessWidget {
               alignment: Alignment.centerRight,
               child: TextButton(
                 onPressed: () {
-                  // Navigator.push(context, MaterialPageRoute(builder:  (context) => ))
+                  Navigator.push(
+                      context,
+                      MaterialPageRoute(
+                        builder: (context) => NavBarRoots(),
+                      ));
                 },
                 child: const Text(
                   "SKIP",
