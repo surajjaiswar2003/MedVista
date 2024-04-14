@@ -1,7 +1,9 @@
 # MedVista
 MedVista is an advanced medical app designed to provide a comprehensive and user friendly healthcare experience.
 1) Login Page
-![WhatsApp Image 2024-04-14 at 23 11 05_48ddad89](https://github.com/surajjaiswar2003/MedVista/assets/114589484/af6f89ef-3673-4a5d-be7c-762c98594dc4)
+   ![WhatsApp Image 2024-04-14 at 23 11 05_48ddad89](https://github.com/surajjaiswar2003/MedVista/assets/114589484/65fdd62e-b3a2-40c0-800c-ef9e293c2a50)
 2)SignUp Page
-![WhatsApp Image 2024-04-14 at 23 11 05_cfc6f40a](https://github.com/surajjaiswar2003/MedVista/assets/114589484/e2999361-f0ce-4791-bdf5-9aed54aa8ba0)
+   ![WhatsApp Image 2024-04-14 at 23 11 05_cfc6f40a](https://github.com/surajjaiswar2003/MedVista/assets/114589484/15ef0a41-be26-4570-ad66-9d9ccbdb9c29)
+
+   
 
